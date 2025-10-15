@@ -1,7 +1,4 @@
 # Feed India 🍽️🇮🇳 - Bridging the Gap Between Food Waste and Hunger
-
-![Feed India Website](https://sudhanshusekharnaik.github.io/feed_india/)
-
 ## 🌟 The Problem: India's Food Paradox
 
 India faces a critical paradox that demands immediate attention:
